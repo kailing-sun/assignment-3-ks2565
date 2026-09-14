@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Kailing's Website"
+
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: beaches.qmd
+        text: Beach Reviews
+      - href: favorite-beach.qmd
+        text: Favorite Beach
+
+format:
+  html:
+    theme:
+      - mint
+      - custom.scss
+    toc: false
+    smooth-scroll: true
+    page-layout: full

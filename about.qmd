@@ -1,0 +1,18 @@
+---
+title: "Kailing"
+---
+
+# About Me
+
+Hi! I'm Kailing, a graduate student at Cornell University.
+
+Here are a few things about me:
+
+- I study Animal Science.
+- I am interested in genetics and genomics.
+- I am learning R, Python, and data science.
+- I enjoy hiking and exploring new places.
+
+## My Interests
+
+I am especially interested in using computational and quantitative approaches to understand biological data.

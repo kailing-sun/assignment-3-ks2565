@@ -1,0 +1,24 @@
+---
+title: "Welcome!"
+---
+
+# Welcome to Kailing's Website
+
+Hello! My name is **Kailing**, and I am a graduate student in Animal Science at Cornell University.
+
+I created this website for **NTRES 6100 Data Science** with my collaborator, **sophiapushlar**.
+
+::: {.text-center}
+
+[My GitHub](https://github.com/kailing-sun)  
+[Partner's GitHub](https://github.com/sophiapushlar)
+
+:::
+
+## About This Website
+
+This website introduces a little bit about us and our interests in data science, biology, and research.
+
+![Beautiful seaside view](https://img.shetu66.com/2023/07/17/1689576386284537.png)
+
+*Beautiful seaside view.*
