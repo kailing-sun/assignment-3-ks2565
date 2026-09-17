@@ -8,11 +8,9 @@ Hello! My name is **Kailing**, and I am a graduate student in Animal Science at 
 
 I created this website for **NTRES 6100 Data Science** with my collaborator, **sophiapushlar**.
 
-::: {.text-center}
-
-[My GitHub](https://github.com/kailing-sun)  
-[Partner's GitHub](https://github.com/sophiapushlar)
-
+::: text-center
+[Kailing's GitHub](https://github.com/kailing-sun)\
+[Sophia's GitHub](https://github.com/sophiapushlar)
 :::
 
 ## About This Website
@@ -21,4 +19,4 @@ This website introduces a little bit about us and our interests in data science,
 
 ![Beautiful seaside view](https://img.shetu66.com/2023/07/17/1689576386284537.png)
 
-*Beautiful seaside view.*
+![Treman State Park Hiking Trail, Ithaca](https://cspmanagement.com/wp-content/uploads/2017/10/1234339_646498008705016_685591427_n.jpg)
