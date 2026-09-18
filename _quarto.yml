@@ -1,9 +1,9 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "Kailing's Website"
- 
+  
   navbar:
     background: light
     foreground: dark
